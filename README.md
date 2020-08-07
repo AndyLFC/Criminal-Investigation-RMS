@@ -12,7 +12,8 @@ We are developing an investigation tool that will allow users to interact with r
  - Tasks
  - Messages
  - Accounts
- - Legal -
+ - Legal 
+ 
 The system will have multiple user levels to aid the security of the system through permissions and also allow allocating, reporting and finalisation of cases. 
 
 The system will be supplied to a range of institutes to help them manage cases that are criminal or civil.
