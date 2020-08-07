@@ -22,4 +22,6 @@ We will be loading the initial build early 2021 and we are looking for open sour
 
 We will be incorporating graphical software to graphically display links in networks. We will also be including links to communication software to enable the user to communicate with other users through multiple means. 
 
+The languages used will be javascript, Python and MSSQL - external software integrated will be in whatever language can communicate. 
+
 I look forward to your interactions on its development. 
